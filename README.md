@@ -1,4 +1,3 @@
-```markdown
 # balecore
 
 A Python library for building bots on the **Bale** and **Telegram** messaging platforms.
