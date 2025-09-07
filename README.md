@@ -32,7 +32,7 @@ async def start_command(bot: Bot, message: Message):
     await message.reply_text(message.text)
 
 # Start the bot
-bot.start()
+bot.start
 ```
 
 ## Core Concepts
