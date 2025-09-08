@@ -69,4 +69,3 @@ Filters are used to narrow down which updates your handlers will process. You ca
 ## Learn More
 
 For more detailed documentation, advanced usage examples, and information about contributing, please visit the project's [GitHub repository](https://github.com/decay-s/balecore).
-```
